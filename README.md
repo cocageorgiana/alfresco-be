@@ -1,1 +1,1 @@
-# alfresco-be
+The JSON for this project is stored in Java project. In order to run the application can be used the jar with following command line: java -jar acs-be-0.0.1-SNAPSHOT.jar Also can be imported the project in IDE, I used IntelliJ. For the backend side project I created the JSON given in task because I wanted to simulate the communication between client-server
